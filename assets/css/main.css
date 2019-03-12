@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 
 /*
 	Industrious by TEMPLATED
@@ -2927,7 +2927,7 @@ ul.icons li .icon:before {
     -webkit-justify-content: center;
     -ms-justify-content: center;
     justify-content: center;
-    background-image: url("../../images/banner.png");
+    background-image: url("../../images/banner.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
